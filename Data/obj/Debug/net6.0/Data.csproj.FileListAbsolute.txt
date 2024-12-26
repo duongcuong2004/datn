@@ -1,0 +1,128 @@
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Data.exe
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Data.deps.json
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Data.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Data.pdb
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.Data.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.build.Data.props
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Data.props
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Data.props
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\scopedcss\bundle\Data.styles.css
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.Up2Date
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.dll
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.pdb
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Đồ Án\Website_BeeFashion\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Data.exe
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.Data.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.build.Data.props
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Data.props
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Data.props
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\scopedcss\bundle\Data.styles.css
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.csproj.Up2Date
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\Data\obj\Debug\net6.0\ref\Data.dll

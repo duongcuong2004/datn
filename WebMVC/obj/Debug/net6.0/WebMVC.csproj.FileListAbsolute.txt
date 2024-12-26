@@ -1,0 +1,148 @@
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\appsettings.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.staticwebassets.runtime.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.exe
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.deps.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.runtimeconfig.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.pdb
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.AssemblyReference.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.AssemblyInfoInputs.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.AssemblyInfo.cs
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.CoreCompileInputs.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.RazorAssemblyInfo.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.RazorAssemblyInfo.cs
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.WebMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebMVC.props
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebMVC.props
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebMVC.props
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\bundle\WebMVC.styles.css
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\projectbundle\WebMVC.bundle.scp.css
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.Up2Date
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\refint\WebMVC.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.pdb
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.genruntimeconfig.cache
+D:\Đồ Án\Website_BeeFashion\WebMVC\obj\Debug\net6.0\ref\WebMVC.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.deps.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.exe
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.dll
+D:\Đồ Án\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.deps.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.exe
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.staticwebassets.runtime.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.exe
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.deps.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.runtimeconfig.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\WebMVC.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\bin\Debug\net6.0\Data.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.RazorAssemblyInfo.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.RazorAssemblyInfo.cs
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.WebMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.WebMVC.props
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebMVC.props
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebMVC.props
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\bundle\WebMVC.styles.css
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\scopedcss\projectbundle\WebMVC.bundle.scp.css
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.csproj.Up2Date
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\refint\WebMVC.dll
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.pdb
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\WebMVC.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Website_BeeFashion\WebMVC\obj\Debug\net6.0\ref\WebMVC.dll
